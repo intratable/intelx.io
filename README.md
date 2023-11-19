@@ -40,10 +40,10 @@ curl "http://localhost:3000/?url=tu_término_de_búsqueda"
 El script rotará las claves API para cada solicitud 
 y devolverá los resultados en formato JSON.
 
-Contribuciones
+## Contribuciones
 
 Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, por favor, crea un 'pull request' o abre un 'issue'.
 
-Créditos
+## Créditos
 
 Desarrollado por Intratable.
