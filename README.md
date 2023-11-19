@@ -27,25 +27,23 @@ Ejecuta el script con Node.js:
 
 ```bash
 node tu_script.js
+```
 
-Luego, realiza solicitudes HTTP GET a localhost:3000 con el parámetro url especificando tu término de búsqueda:
-
+Luego, realiza solicitudes HTTP GET a localhost:3000 
+con el parámetro url especificando tu término de búsqueda:
+```
 bash
 
 curl "http://localhost:3000/?url=tu_término_de_búsqueda"
+```
 
-El script rotará las claves API para cada solicitud y devolverá los resultados en formato JSON.
+El script rotará las claves API para cada solicitud 
+y devolverá los resultados en formato JSON.
+
 Contribuciones
 
 Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, por favor, crea un 'pull request' o abre un 'issue'.
-Licencia
 
-Este proyecto se distribuye bajo la licencia XYZ. Ver el archivo LICENSE para más detalles.
 Créditos
 
 Desarrollado por Intratable.
-
-python
-
-
-Este README proporciona una visión general del propósito del script, cómo instalarlo y ut
