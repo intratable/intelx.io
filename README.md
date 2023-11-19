@@ -46,4 +46,4 @@ Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, por favor, 
 
 ## Créditos
 
-Desarrollado por Intratable.
+ Intratable.
