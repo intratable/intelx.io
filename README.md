@@ -1,7 +1,3 @@
-# Intelx Phonebook API Wrapper
-
-Este script de Node.js es un wrapper para la API de Intelx Phonebook. Permite realizar búsquedas en el directorio telefónico de Intelx y recuperar información relacionada con un término de búsqueda específico.
-
 ## Características
 
 - Búsqueda en Intelx Phonebook con rotación de llaves API.
@@ -39,10 +35,6 @@ curl "http://localhost:3000/?url=tu_término_de_búsqueda"
 
 El script rotará las claves API para cada solicitud 
 y devolverá los resultados en formato JSON.
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, por favor, crea un 'pull request' o abre un 'issue'.
 
 ## Créditos
 
